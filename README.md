@@ -1,4 +1,7 @@
 # r-cnn
+
+My first project of deep learning, object detection with R-CNN.
+
 ![](good_sample/10.png)
 ![](good_sample/14.png)
 ![](good_sample/16.png)
